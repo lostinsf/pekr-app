@@ -1,2 +1,2 @@
 # pekr-app
-Ability Test Server to Start App Development
+앱 개발을 위한 테스트 용 소스
